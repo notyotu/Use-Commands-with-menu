@@ -13,7 +13,5 @@ shared_script {'config.lua',
 client_script 'client.lua'
 
 dependencies {
-    'es_extended',
-    'ox_inventory',
     'ox_lib'
 }
